@@ -1,10 +1,16 @@
-# Description
+# "Autumn Leaves" Painting
+
+## Setup
+
+To run this app, you need to have Processing4 installed on your computer, download AutumnLeaves folder, and run AutumnLeaves.pde in Processing4
+
+## Description
  
 It's an interactive painting developed for a Java exam, utilizing the Processing framework.
 
 The painting is entitled "Autumn Leaves" and is an abstract representation of them.
 
-Interact with the painting using these shortcuts:
+## Key Bindings
 
 - Initially in mode 0, all functions disabled except left click. Press 1-3 to enable features.
 - Left click to randomize painting.
